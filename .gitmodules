@@ -1,0 +1,3 @@
+[submodule "midi2img"]
+	path = midi2img
+	url = https://github.com/yeshwanthv5/midi2img.git
